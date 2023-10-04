@@ -59,7 +59,7 @@ $pesan = session()->getFlashdata('pesan');
 
                             <div>
                                 <?php if ($pesan) { ?>
-                                    <p style="color:green"><?php echo $pesan ?></p>
+                                    <p style="color:blue"><?php echo $pesan ?></p>
                                 <?php } ?>
                             </div>
 
