@@ -1,4 +1,4 @@
-# CodeIgniter 4 Application Starter
+# Raekhandi Yoga Gusmawan
 
 # UTS
 Project1 CodeIgniter
